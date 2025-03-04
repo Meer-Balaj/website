@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Balaj-Portfolio-0.1";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js.unityweb",
-    "Build/Build.data.unityweb",
-    "Build/Build.wasm.unityweb",
+    "Build/Builds.loader.js",
+    "Build/Builds.framework.js.unityweb",
+    "Build/Builds.data.unityweb",
+    "Build/Builds.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
